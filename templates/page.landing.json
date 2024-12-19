@@ -1,0 +1,146 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "10ecf945-f53e-49bd-afbc-ac9bd9a80cac": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21677280166209__10ecf945-f53e-49bd-afbc-ac9bd9a80cac-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "MELISSA RICHARDS",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--21677280166209__10ecf945-f53e-49bd-afbc-ac9bd9a80cac-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "e103a60d-2124-4f90-bc7e-87cb4ee19f22": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21677280166209__e103a60d-2124-4f90-bc7e-87cb4ee19f22-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SOFTWARE DEVELOPER",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--21677280166209__e103a60d-2124-4f90-bc7e-87cb4ee19f22-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "2956854f-603c-4cb3-bc3d-1835d407f4a3": {
+      "type": "collage",
+      "blocks": {
+        "template--21677280166209__2956854f-603c-4cb3-bc3d-1835d407f4a3-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/selfport7.jpg"
+          }
+        },
+        "02ada581-b548-43a7-a53e-1ced886b7a5c": {
+          "type": "image",
+          "settings": {}
+        },
+        "43ec73d4-283a-44d9-bd9c-f248dc86ec89": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--21677280166209__2956854f-603c-4cb3-bc3d-1835d407f4a3-image-1",
+        "02ada581-b548-43a7-a53e-1ced886b7a5c",
+        "43ec73d4-283a-44d9-bd9c-f248dc86ec89"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h0",
+        "desktop_layout": "right",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "021ebce0-81ee-4133-9b0e-8125d36b3deb": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify://shop_images/selfport7.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "98a534e4-348d-44cf-a55b-48debeb72cc7": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify://shop_images/selfport7.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "10ecf945-f53e-49bd-afbc-ac9bd9a80cac",
+    "e103a60d-2124-4f90-bc7e-87cb4ee19f22",
+    "2956854f-603c-4cb3-bc3d-1835d407f4a3",
+    "021ebce0-81ee-4133-9b0e-8125d36b3deb",
+    "98a534e4-348d-44cf-a55b-48debeb72cc7"
+  ]
+}
